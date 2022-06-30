@@ -2,7 +2,7 @@
 
 ## choose the date / CGV theater / movie, and get notified when you can book a seat!
 
-|          |                     |
+| tech     | stack               |
 | -------- | ------------------- |
 | database | airtable            |
 | backend  | netlify             |
